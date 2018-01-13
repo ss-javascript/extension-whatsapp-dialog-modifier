@@ -1,0 +1,11 @@
+.wdm-notification {
+  color: white;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  z-index: 999;
+}
+
+.wdm-notification.wdm-notification--success {
+  background: green;
+}
